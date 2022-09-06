@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILM_Bot.cs", "ILM_Bot.cs\ILM_Bot.cs.csproj", "{F00F2233-305C-4EED-9E66-F865BAC54BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00F2233-305C-4EED-9E66-F865BAC54BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00F2233-305C-4EED-9E66-F865BAC54BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00F2233-305C-4EED-9E66-F865BAC54BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00F2233-305C-4EED-9E66-F865BAC54BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED76169-0C58-40DA-8DB8-1D287691C06E}
+	EndGlobalSection
+EndGlobal
