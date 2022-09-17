@@ -33,7 +33,8 @@ void GetUpdate(Update update)
     else return;
 
     var user = userService.AddUser(From);
-    StepFilter(user, messageFromUser);
+    StepFilter(user, messageFromUser);//to know where the user is
+    
 }
 
 void StepFilter(Models.User user, string message)
